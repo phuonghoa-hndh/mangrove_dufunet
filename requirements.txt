@@ -1,0 +1,9 @@
+# Install a PyTorch/torchvision pair compatible with your CUDA environment.
+numpy
+matplotlib
+rasterio
+tqdm
+torch
+torchvision
+transformers==4.57.1
+timm
